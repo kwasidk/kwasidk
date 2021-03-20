@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Kwasi 🖖🏾
 
-<!--
-**kwasidk/kwasidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developent student at a vocational school in The Netherlands 🇳🇱. At the moment my language of choice is Java, but I would like to learn other languages. 
 
-Here are some ideas to get you started:
+### 📖**Things I want to learn or further develop in 2021**
+- 📝 Software Development
+  - Expand Java knowledge (Spring Boot & OOP) 
+  - Learn Javascript + Node.JS
+  - Building and deploying REST API's
+ 
+- 📑 Relational Databases
+  - Expanding MySQL and PostgreSQL knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ Infrastructure | DevOps
+  - Basic network and security 
+  - Docker
+  - IaaS such as Amazon Web Services/Google Cloud
+  - CI/CD Pipeline
+
+My main focus for 2021 is to further develop my Java and relational database knowledge.
