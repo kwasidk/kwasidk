@@ -1,4 +1,4 @@
-## Hi there, I'm Kwasi 🖖🏾
+## Hi, I'm Kwasi 🖖🏾
 
 I'm a Software Developent student at a vocational school in The Netherlands 🇳🇱. At the moment my language of choice is Java, but I would like to learn other languages too.
 
